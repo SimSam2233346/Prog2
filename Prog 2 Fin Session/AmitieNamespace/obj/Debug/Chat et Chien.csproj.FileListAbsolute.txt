@@ -1,0 +1,8 @@
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\bin\Debug\AmitieNamespace.exe.config
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\bin\Debug\AmitieNamespace.exe
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\bin\Debug\AmitieNamespace.pdb
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\obj\Debug\Chat et Chien.csproj.AssemblyReference.cache
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\obj\Debug\Chat et Chien.csproj.SuggestedBindingRedirects.cache
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\obj\Debug\Chat et Chien.csproj.CoreCompileInputs.cache
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\obj\Debug\AmitieNamespace.exe
+C:\Users\2233346\Documents\Code\Prog2\Prog 2 Fin Session\AmitieNamespace\obj\Debug\AmitieNamespace.pdb
