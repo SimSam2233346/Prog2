@@ -12,13 +12,6 @@ namespace ChatNamespace
         private string humeurChat;
         private string amiCat;
 
-        //public Chat(string chat,string humeurChat, string amiCat)
-        //{
-        //    this.nomChat = chat;
-        //    this.humeurChat = humeurChat;
-        //    this.amiCat = amiCat;
-        //}
-
         public Chat(string chat)
         {
             this.nomChat = chat;

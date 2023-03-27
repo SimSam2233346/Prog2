@@ -44,27 +44,10 @@ namespace AmitieNamespace
             Console.WriteLine("--------------------------------------------------------------------------\n");
 
             if (amiDoggy == false) { doggy.SetHumeurChien("Mauvaise"); }
-            else { doggy.SetHumeurChien("Bonne"); }
+            else { doggy.SetHumeurChien("Bonne"); dog.SetHumeurChien("Bonne"); }
 
             if (amiDoggy == false) { chat.SetAmiCat("Aucun"); chat.SetHumeurChat("Mauvaise"); dog.SetAmiChien("Doggy"); doggy.SetAmiChien("Dog"); amiDoggy = true; doggy.SetHumeurChien("Bonne"); }
             else { doggy.SetAmiChien("Aucun"); }
-
-            //if (nbreHumeurChat == 0) { humeurChat = "Mauvaise"; chatPeutAvoirAmi = false; }
-            //else { humeurChat = "Bonne"; chatPeutAvoirAmi = true; }
-
-            //if (chatPeutAvoirAmi == true) { amiChat = "Dog"; amiChien = "Cat"; }
-            //else { amiChat = "Aucun"; amiChien = "Aucun"; }
-
-            //if (amiDoggy == false) { humeurDoggy = "Mauvaise"; }
-            //else { humeurDoggy = "Bonne"; }
-
-            //if (amiDoggy == false) { amiChat = "Aucun"; amiChien = "Doggy"; amiChien2 = "Dog"; amiDoggy = true; humeurDoggy = "Bonne"; }
-            //else { amiChien2 = "Aucun"; }
-
-            //Chat chat = new Chat("Cat", humeurChat, amiChat);
-            //Chien dog = new Chien("Dog", humeurDog, amiChien);
-            //Chien doggy = new Chien("Doggy", humeurDoggy, amiChien2);
-
 
             Console.WriteLine($"Nom Chat: {chat.GetNomChat()}\nHumeur Cat: {chat.GetHumeur()}\nMeilleur Ami Cat: {chat.GetAmiCat()}\n");
             Console.WriteLine($"Nom Chien: {dog.GetNomChien()}\nHumeur Dog: {dog.GetHumeurChien()}\nMeilleur Ami Dog: {dog.GetAmiChien()}\n");

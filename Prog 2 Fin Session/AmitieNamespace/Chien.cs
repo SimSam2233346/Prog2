@@ -12,13 +12,6 @@ namespace ChienNamespace
         private string humeurChien;
         private string amiChien;
 
-        //public Chien(string nomChien, string humeurChien,string amiDog)
-        //{
-        //    this.nomChien = nomChien;
-        //    this.humeurChien = humeurChien;
-        //    this.amiChien = amiDog;
-        //}
-
         public Chien(string nomChien)
         {
             this.nomChien = nomChien;
